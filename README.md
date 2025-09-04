@@ -26,9 +26,9 @@ OPEN_API_KEY=your_openai_api_key
 3. lataa openAI langchain ja venv
 ```bash
 python3 -m venv venv
-´´´
 source venv/bin/activate
 pip install openai langchain langchain-community python-dotenv
+´´´
 
 
 4. Suorita koodi Suorita koodi seuraavalla komennolla:
