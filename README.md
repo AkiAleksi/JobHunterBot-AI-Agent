@@ -32,8 +32,9 @@ pip install openai langchain langchain-community python-dotenv
 
 
 ### 4. Suorita koodi Suorita koodi seuraavalla komennolla:
-
+```bash
 python3 JobHUnt.py
+´´´
 
 ### 5. Hakukirjeen tallennus
 Kun koodi suoritetaan, hakukirje tallennetaan tiedostoon cover_letter.txt.
