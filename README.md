@@ -28,7 +28,7 @@ OPEN_API_KEY=your_openai_api_key
 python3 -m venv venv
 source venv/bin/activate
 pip install openai langchain langchain-community python-dotenv
-´´´
+```
 
 
 4. Suorita koodi Suorita koodi seuraavalla komennolla:
