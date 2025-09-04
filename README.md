@@ -18,12 +18,12 @@ Varmista, että sinulla on Python 3.10+ asennettuna. Asenna tarvittavat kirjasto
 ```bash
 pip3 install langchain langchain-community python-dotenv
 ```
-2. Aseta OpenAI API -avain
+###2. Aseta OpenAI API -avain
 Luo projektihakemistoon .env-tiedosto ja lisää sinne OpenAI API -avaimesi:
 
 OPEN_API_KEY=your_openai_api_key
 
-3. lataa openAI langchain ja venv
+###3. lataa openAI langchain ja venv
 ```bash
 python3 -m venv venv
 source venv/bin/activate
@@ -31,11 +31,11 @@ pip install openai langchain langchain-community python-dotenv
 ```
 
 
-4. Suorita koodi Suorita koodi seuraavalla komennolla:
+###4. Suorita koodi Suorita koodi seuraavalla komennolla:
 
 python3 JobHUnt.py
 
-5. Hakukirjeen tallennus
+###5. Hakukirjeen tallennus
 Kun koodi suoritetaan, hakukirje tallennetaan tiedostoon cover_letter.txt.
 
 Tiedostot
